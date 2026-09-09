@@ -1,0 +1,5 @@
+# Revised Program 2 using variables
+
+x = "FYRE"
+y = "Assignments"
+print(x + " " + y)
