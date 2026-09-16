@@ -12,3 +12,5 @@ Lecture7.py- Made 9/14, completes Part 4 of Lecture 7 by creating a sensor for a
 
 Lecture 8- Made 9/16, completes all Parts of Lecture 8, including the code we used to program the microcontroller and the CSV data we collected
 
+ENGR095 Sensing the World Lecture 8 pt.3.xlsx- Made 9/16, the Google Sheet we made for Part 3 of Lecture 8
+
