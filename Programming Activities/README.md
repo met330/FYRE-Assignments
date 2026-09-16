@@ -10,3 +10,5 @@ Program4.py - Made 9/9, Blinks
 
 Lecture7.py- Made 9/14, completes Part 4 of Lecture 7 by creating a sensor for a security system, using a microcontroller and breadboard. The LED light turns on when the button is pressed.
 
+Lecture 8- Made 9/16, completes all Parts of Lecture 8, including the code we used to program the microcontroller and the CSV data we collected
+
