@@ -1,4 +1,4 @@
-# Projects
+# Project
 
 9/23 - Uploaded our project outline to this folder
 
