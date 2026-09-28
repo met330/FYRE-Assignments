@@ -1,4 +1,4 @@
-9.23.2026: Day 1- Construction Start
+## 9.23.2026: Day 1- Construction Start
 
 - Assembling materials
 - Beginning programming and wiring
@@ -14,8 +14,8 @@ We also made sure the LED turned on when the switch was pressed.
 We built the base of our collection container out of popsicle sticks and cardboard, ensuring the lid can be moved with the stepper.
 We had to change the servo to the stepper, as the servo was not strong enough to move the lid.
 
-------------------------------------------------------------------------------------------------------------------------------------------
-9.28.2026 Day 2- Continuing Wiring and Construction
+
+## 9.28.2026 Day 2- Continuing Wiring and Construction
 
 - Wiring water sensor
 - Making sure water sensor works, moving the lid when 1.5 volts or more are detected, and turning on the LED
