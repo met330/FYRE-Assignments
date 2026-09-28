@@ -16,3 +16,8 @@ resistance_test.py: 9.28.2026, setting up multimeter-like function for the custo
 iter_6.py: 9.28.2026, adding the resistance_test.py function to the program as an input\
 recalibrate.py: 9.28.2026, program to fix the motor position\
 testbreath.py: 9.28.2026, temporary change to iteration 6 to activate the ohmmeter on breath of custom sensor
+
+## Other Files
+
+ENGR 095 Project Outline.pdf: 9.23.2026, contains original project outline for prototype we created\
+Project Documentation: updated each class day, contains what we did each day
