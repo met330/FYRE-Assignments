@@ -9,5 +9,17 @@
 In the first iteration of the program, we made sure that we can move the stepper 90 degrees with the manual switch.
 We also made sure the LED turned on when the switch was pressed.
 We built the base of our collection container out of popsicle sticks and cardboard, ensuring the lid can be moved with the stepper.
-
 We had to change the servo to the stepper, as the servo was not strong enough to move the lid.
+
+
+9.28.2026 Day 2- Continuing Wiring and Construction
+
+- Wiring water sensor
+- Making sure water sensor works, moving the lid when 1.5 volts or more are detected, and turning on the LED
+- Adding onto prototype water collection container and lid to support the stepper and lid by constructing scaffolding
+- Continued working on presentation, adding more information and polishing what was already added.
+
+
+In the fourth iteration of the program, we connected the water sensor to the breadboard, making sure it works as attended.
+We also made sure the LED turned on when water was sensed.
+We built scaffolding to support the stepper and lid as it moved.
