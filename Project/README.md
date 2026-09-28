@@ -6,8 +6,6 @@
 
 ## Final Project Iterations
 
-Each iteration of the final project will be included in here.
-
 iter_1.py: 9.23.2026, setting up servo movement on button press\
 iter_2.py: 9.23.2026, adding LED to setup\
 iter_3.py: 9.23.2026, Switching out the servo to a step motor\
