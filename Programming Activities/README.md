@@ -14,3 +14,6 @@ Lecture 8- Made 9/16, completes all Parts of Lecture 8, including the code we us
 
 ENGR095 Sensing the World Lecture 8 pt.3.xlsx- Made 9/16, the Google Sheet we made for Part 3 of Lecture 8
 
+ENGR 095 Project Outline.pdf- Made 9/23, includes picture of the project outline we made before starting
+
+Sensing the World Final Project- Made 9/28, has the descriptions of the work we did each day for the project
