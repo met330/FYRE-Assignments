@@ -4,6 +4,8 @@
 
 9/28- Uploaded Sensing the World Final Project to this folder, which included details of our progress each class.
 
+    - Uploaded all iterations of program to this folder
+
 ## Final Project Iterations
 
 iter_1.py: 9.23.2026, setting up servo movement on button press\
