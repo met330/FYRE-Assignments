@@ -6,10 +6,13 @@
 - Building prototype water collection container and lid
 - Began planning out presentation
 
-In the first iteration of the program, we made sure that we can move the stepper 90 degrees with the manual switch.
-We also made sure the LED turned on when the switch was pressed.
-We built the base of our collection container out of popsicle sticks and cardboard, ensuring the lid can be moved with the stepper.
-We had to change the servo to the stepper, as the servo was not strong enough to move the lid.
+In the first iteration of the program, we made sure that we can move the stepper 90 degrees with the manual switch.\
+In the second interation of the program, we changed the servo to a motor.\
+In the third iteration of the program, we changed the motor to a stepper.\
+
+We also made sure the LED turned on when the switch was pressed.\
+We built the base of our collection container out of popsicle sticks and cardboard, ensuring the lid can be moved with the stepper.\
+We had to change the servo to the stepper, as the servo was not strong enough to move the lid.\
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 9.28.2026 Day 2- Continuing Wiring and Construction
