@@ -24,5 +24,24 @@ We had to change the servo to the stepper, as the servo was not strong enough to
 
 
 In the fourth iteration of the program, we connected the water sensor to the breadboard, making sure it works as attended.
+In iterations five and six, we continued adjusting the resistance measurements to ensure the stepper only moved when water was detected.
 We also made sure the LED turned on when water was sensed.
 We built scaffolding to support the stepper and lid as it moved.
+We ended the day with testing our prototype, including programming a resistance test and a breath test. 
+We also wrote a program that recalibrates our stepper when the angle of movement was inaccurate.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+9.30.2026 Day 3- Finishing Up Project and Debugging
+
+- Finishing supports for lid to ensure smooth movement
+- Checking all final code, making sure programs work accurately and reliably
+- Finished Presentation, adding conclusion and pictures of prototype
+- Began cleaning up station
+
+We didn't make any more iterations of the program, instead just adding our Ai use to the programs lacking it.
+The testbreath.py program was itilized in our testing, as well as the recalibrate.py program.
+We completed construction of supports for the lid, ensuring the lid moves smoothly each time the program is run.
+The presentation was updated, adding pictures of our prototype as well as updating slides such as Results and Conclusion.
+
+
+
