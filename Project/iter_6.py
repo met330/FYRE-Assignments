@@ -5,6 +5,7 @@
 # Program start date: 9.23.2026
 # Last update: 9.28.2026
 # Update desc: Added Ohmmeter sensor on Pin A1 (GPIO 2) to trigger stepper when Rx < 1.4 kΩ
+# AI use: Integrated resistance measure to full program
 
 # GOAL: Move 52Pi stepper motor 90 degrees forward on switch press, water detection (Active LOW), 
 #       OR low resistance measurement (< 1.4 kΩ).
