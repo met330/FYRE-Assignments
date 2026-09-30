@@ -5,6 +5,7 @@
 # Program start date: 9.23.2026
 # Last update: 9.28.2026
 # Update desc: Adjusted Ohmmeter logic on Pin A1 (GPIO 2) to trigger when resistance RISES above 1200 Ω
+# AI use: Integrated resistance measure to full program
 
 # GOAL: Move 52Pi stepper motor 90 degrees forward on switch press, water detection (Active LOW), 
 #       OR elevated humidity resistance (>= 1200 Ω).
