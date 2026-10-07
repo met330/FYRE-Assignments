@@ -7,8 +7,6 @@
 
 ## Final Project Iterations
 
-[Open the presentation](https://met330.github.io/FYRE-Assignments/)
-
 iter_1.py: 9.23.2026, setting up servo movement on button press\
 iter_2.py: 9.23.2026, adding LED to setup\
 iter_3.py: 9.23.2026, Switching out the servo to a step motor\
