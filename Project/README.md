@@ -22,4 +22,5 @@ testbreath.py: 9.28.2026, temporary change to iteration 6 to activate the ohmmet
 ## Other Files
 
 ENGR 095 Project Outline.pdf: 9.23.2026, contains original project outline for prototype we created\
-Project Documentation: updated each class day, contains what we did each day
+Project Documentation: updated each class day, contains what we did each day\
+Presentation: README includes link to google slideshow
