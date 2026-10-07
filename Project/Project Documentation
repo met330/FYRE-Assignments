@@ -23,7 +23,7 @@ We had to change the servo to the stepper, as the servo was not strong enough to
 - Continued working on presentation, adding more information and polishing what was already added.
 
 
-In the fourth iteration of the program, we connected the water sensor to the breadboard, making sure it works as attended.
+In the fourth iteration of the program, we connected the water sensor to the breadboard, making sure it works as intended.
 In iterations five and six, we continued adjusting the resistance measurements to ensure the stepper only moved when water was detected.
 We also made sure the LED turned on when water was sensed.
 We built scaffolding to support the stepper and lid as it moved.
