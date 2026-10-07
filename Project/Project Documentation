@@ -39,7 +39,7 @@ We also wrote a program that recalibrates our stepper when the angle of movement
 - Began cleaning up station
 
 We didn't make any more iterations of the program, instead just adding our Ai use to the programs lacking it.
-The testbreath.py program was itilized in our testing, as well as the recalibrate.py program.
+The testbreath.py program was utilized in our testing, as well as the recalibrate.py program.
 We completed construction of supports for the lid, ensuring the lid moves smoothly each time the program is run.
 The presentation was updated, adding pictures of our prototype as well as updating slides such as Results and Conclusion.
 
