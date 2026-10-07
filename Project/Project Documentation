@@ -7,7 +7,7 @@
 - Began planning out presentation
 
 In the first iteration of the program, we made sure that we can move the stepper 90 degrees with the manual switch.
-In the second interation of the program, we changed the servo to a motor.
+In the second iteration of the program, we changed the servo to a motor.
 In the third iteration of the program, we changed the motor to a stepper.
 
 We also made sure the LED turned on when the switch was pressed.
